@@ -1,0 +1,53 @@
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Log e cache
+*.log
+*.tmp
+*.cache
+*.bak
+*.swp
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Java
+*.class
+*.jar
+*.war
+
+# PHP
+vendor/
+composer.lock
+
+# Docker
+*.pid
+*.log
+docker-compose.override.yml
+
+# Configurazioni personali
+*.env
+*.local
+*.idea/
+*.vscode/
+
+# File temporanei
+*.~*
+*.orig
+
+# Backup
+*.bak
+*.old
+*.save
+*.swp
+
+# Altri file specifici
+!README.md
