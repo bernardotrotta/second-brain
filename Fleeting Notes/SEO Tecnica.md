@@ -1,0 +1,5 @@
+1. [[robots.txt]]
+2. [[canonical tag]]
+3. [[protocolli]]
+4. [[Redircet]]
+5. [[Site Speed]]

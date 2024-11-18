@@ -1,0 +1,1 @@
+> Initial Public Offering, in italiano, offerta pubblica iniziale è il valore iniziale di un'azienda che vuole quotarsi sul mercato regolamentare

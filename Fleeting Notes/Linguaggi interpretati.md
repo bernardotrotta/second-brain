@@ -1,0 +1,1 @@
+- Il programma sorgente viene eseguito da un interptete che traduce un'istruzione alla volta

@@ -1,0 +1,5 @@
+- Economia ed organizzazione aziendale
+- Istituzioni di economia e marketing
+- Programmazione di sistemi mobili
+- Communication and leadeship skills
+- Produrre tempo

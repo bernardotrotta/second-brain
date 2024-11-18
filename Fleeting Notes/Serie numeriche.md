@@ -1,0 +1,9 @@
+## Definizione
+
+- 
+- 
+- 
+
+## Rappresentazione Geometrica
+
+## Proprietà

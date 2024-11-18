@@ -1,0 +1,33 @@
+/* Apply set wider width to dataview tables only in a card in reading mode only on pages with starting page yaml
+
+---
+
+cssclass: dataview-wide
+
+---
+
+*/
+
+.dataview-wide.markdown-preview-view.is-readable-line-width
+
+.block-language-dataview {
+
+min-width: 70rem !important;
+
+/* margin-left: -25rem; */
+
+/* width: 100rem !important; */
+
+}
+
+.dataview-wide.markdown-preview-view.is-readable-line-width
+
+.block-language-dataviewjs {
+
+min-width: 70rem !important;
+
+/* margin-left: -25rem; */
+
+/* width: 100rem !important; */
+
+}

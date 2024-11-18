@@ -1,0 +1,19 @@
+/* Make card 100% width if it has the following starting YAML tag
+
+(Works on mobile as it makes the card the width of the screen.)
+
+---
+
+cssclass: width-full
+
+---
+
+*/
+
+.width-full.markdown-preview-view.is-readable-line-width .markdown-preview-sizer,
+
+.markdown-source-view.is-readable-line-width .CodeMirror{
+
+max-width:100%;
+
+}

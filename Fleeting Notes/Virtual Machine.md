@@ -1,0 +1,1 @@
+Il linguaggio viene compilato e tradotto in un byte code, ovvero un linguaggio ideale di un microprocessore virtuale, il codice poi va intepretato da una virtual machine e tradotto in tempo di runtime in linguaggio compatibile con l'architettura fisica

@@ -1,0 +1,7 @@
+- Aiutare le persone
+- Crere relazioni
+- L'acquirente ha il coltello dalla parte del manico
+	- È molto probabile che l'acquirente cambi brand se il processo di acquisto è troppo difficile
+	- È molto probabile che a seguito di una errata comunicazione, l'acquirente tagli i contatti
+	- Spesso basta 1 opzione negativa per rompere i ponti
+	- 

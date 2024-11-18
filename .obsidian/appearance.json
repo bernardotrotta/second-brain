@@ -1,0 +1,19 @@
+{
+  "accentColor": "#e2b179",
+  "theme": "obsidian",
+  "textFontFamily": "Inter",
+  "baseFontSize": 16,
+  "showViewHeader": true,
+  "nativeMenus": true,
+  "enabledCssSnippets": [
+    "table",
+    "mjx",
+    "theorem-callout",
+    "center-tables",
+    "table2",
+    "Colored-Headings"
+  ],
+  "cssTheme": "Atom",
+  "monospaceFontFamily": "Fira Code",
+  "interfaceFontFamily": "Inter"
+}

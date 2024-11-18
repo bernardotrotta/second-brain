@@ -1,0 +1,20 @@
+{
+	"nodes":[
+		{"id":"f9662208a122f663","type":"text","text":"Vettori perpendicolari","x":-360,"y":-440,"width":250,"height":60},
+		{"id":"64fdb39911d012bb","type":"text","text":"Risolvo il sistema con i prodotti scalari tra i vettori dati e il vettore generico dello spazio considerato","x":-662,"y":-119,"width":250,"height":147},
+		{"id":"c50943ffa6aa2497","type":"text","text":"Risolvo il prodotto scalare eguagliato a zero tra i due vettori dati. Risolvo poi l'equazione risultante per il parametro. ","x":140,"y":-119,"width":250,"height":197},
+		{"id":"8f1534c137a41744","type":"text","text":"Dimensione dello spazio vettoriale\n","x":-2155,"y":74,"width":250,"height":60},
+		{"id":"1d013f2792525cda","type":"text","text":"Equazione cartesiana dello spazio","x":-1820,"y":180,"width":250,"height":60},
+		{"id":"32256c20abd627a0","type":"text","text":"\na","x":-1493,"y":-61,"width":250,"height":60},
+		{"id":"42e09acd1fdbb362","type":"text","text":"Base di uno spazio vettoriale\n","x":-1905,"y":-340,"width":250,"height":60},
+		{"id":"bef36cf84a43e0b9","type":"text","text":"Una base è un sistema di generatori linearmente. Li trovo mettendo a sistema","x":-1636,"y":-478,"width":250,"height":117},
+		{"id":"9c60e98c8ad27965","type":"text","text":"- Autovalori e autovettori\n- Ricavato equazione di uno spazio vettoriale\n- Differenza tra sistema di generatori e span\n- Basi ortogonali e ortonormali","x":-1192,"y":-640,"width":432,"height":200},
+		{"id":"296f4eed1d29b267","x":-1690,"y":-1094,"width":470,"height":254,"type":"text","text":"Una matrice è invertibile se e solo se il suo determinante è diverso da zero"}
+	],
+	"edges":[
+		{"id":"4a1aaa5f77843b7b","fromNode":"f9662208a122f663","fromSide":"bottom","toNode":"64fdb39911d012bb","toSide":"top","label":"Devo determinare il sottospazio di tutti i vettori perpendicolari contemporaneamente a i due vettori dati"},
+		{"id":"329c42f86d4d2bfc","fromNode":"f9662208a122f663","fromSide":"bottom","toNode":"c50943ffa6aa2497","toSide":"top","label":"Determinare il parametro che rende ortogonali due vettori scritti in forma parametrica"},
+		{"id":"ffe5210b4f38267a","fromNode":"42e09acd1fdbb362","fromSide":"bottom","toNode":"8f1534c137a41744","toSide":"top"},
+		{"id":"ecb1a0b2e425e712","fromNode":"42e09acd1fdbb362","fromSide":"bottom","toNode":"1d013f2792525cda","toSide":"top"}
+	]
+}

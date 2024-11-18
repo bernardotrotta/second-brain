@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "7e2316141c4b9aa0",
+    "type": "split",
+    "children": [
+      {
+        "id": "fef74ce8c43d6962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0812315e5a98b583",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-05-18 19.35.51.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "44aa323758ba29d9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "f64243b2930a1748",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "94ee3cccbe9d6fc5",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "aeeed9e14d52a8cd",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "f66a7155d0b67055",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "d41d319aeca1563e",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "d763c41ea5941c8c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "853b6cc2929b58ea",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Excalidraw/Drawing 2024-05-18 19.35.51.excalidraw.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "c49f754cf9a2c52b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Excalidraw/Drawing 2024-05-18 19.35.51.excalidraw.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "548efcdeb4938347",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Excalidraw/Drawing 2024-05-18 19.35.51.excalidraw.md"
+          }
+        }
+      },
+      {
+        "id": "cbb476da66cf96a6",
+        "type": "leaf",
+        "state": {
+          "type": "review-queue-list-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-spaced-repetition:Review flashcards": false,
+      "markdown-importer:Open format converter": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "0812315e5a98b583",
+  "lastOpenFiles": [
+    "Allegati/Screenshot 2024-05-06 alle 16.26.06.png",
+    "Allegati/Screenshot 2023-04-21 alle 18.01.27.png",
+    "Allegati/2 AC-DC.pdf",
+    "Allegati/1 Power electronics 1.pdf",
+    "Allegati/Esercizinegozio.pdf",
+    "Allegati/3 DC-DC.pdf",
+    "Allegati/Screenshot 2023-04-18 alle 19.52.18.png",
+    "Excalidraw/Matematica Applicata.excalidraw.md",
+    "Allegati/Esercizinegoziorisolti.pdf",
+    "Allegati/Screenshot 2024-05-07 alle 09.11.27.png",
+    "Allegati/1 Power electronics.pdf",
+    "Excalidraw/Drawing 2024-05-18 19.35.51.excalidraw.md",
+    "Allegati/Screenshot 2024-05-26 alle 19.41.26.png",
+    "Allegati/1 Power electronics 2.pdf",
+    "Allegati/Screenshot 2024-05-13 alle 21.10.18.png",
+    "Allegati/Screenshot 2023-04-18 alle 19.52.36 1.png",
+    "Allegati/Screenshot 2024-05-06 alle 22.59.04.png",
+    "Allegati/DB_Lecture050.pdf",
+    "Allegati/256colour.png",
+    "Allegati/Diagram.svg",
+    "Allegati/trasformazione-isobara.png",
+    "Allegati/Esercizigestionerisolti.pdf",
+    "Allegati/Esercizigestione.pdf",
+    "Fleeting Notes/Python Virtual Machine.md",
+    "Fleeting Notes/Numeri a virgola mobile.md",
+    "Fleeting Notes/Corrente.md",
+    "Chiave (Algebra Relazionale).md",
+    "Selezione.md",
+    "Documentazione degli schemi ER.md",
+    "Timer.md",
+    "Fleeting Notes/Codifica.md",
+    "Viste (SQL) 1.md",
+    "Like (SQL).md",
+    "Join (SQL).md",
+    "Generalizzazioni (Modello ER).md",
+    "Fleeting Notes/Formulario.md",
+    "Fleeting Notes/Pianificazione Finanziaria.md",
+    "Exists (SQL).md",
+    "Sistema informativo.md",
+    "Sistemi di protezione.md",
+    "Thread.md",
+    "Amplificatori operazionali.md",
+    "Fleeting Notes/Spazio campione ed eventi.md",
+    "Fleeting Notes/logarithmic scale.md",
+    "Circuito equivalente a parametri H.md",
+    "Join (Algebra Relazionale).md",
+    "Processi.canvas"
+  ]
+}

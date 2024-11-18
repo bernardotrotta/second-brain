@@ -1,0 +1,1350 @@
+{
+  "nodes": [
+    {
+      "id": "275a126594bc4cce",
+      "type": "text",
+      "text": "## Glossario\n- Dominio applicativo\n- Funzionalità\n- Software\n- Requisito\n- Specifica\n- Stakeholder",
+      "styleAttributes": {},
+      "x": -400,
+      "y": -400,
+      "width": 236,
+      "height": 260
+    },
+    {
+      "id": "b4a2e384cd650834",
+      "type": "text",
+      "text": "Ingengeria del software",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -580,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "42abc77dcd0eb550",
+      "type": "text",
+      "text": "Ingegneria dei sistemi",
+      "styleAttributes": {},
+      "x": 300,
+      "y": -400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "317e609ee7c748d5",
+      "type": "text",
+      "text": "Scienze organizzative",
+      "styleAttributes": {},
+      "x": 520,
+      "y": -640,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6c43af2c01df800e",
+      "type": "text",
+      "text": "Sviluppo software",
+      "styleAttributes": {
+        "textAlign": null
+      },
+      "x": -782,
+      "y": -2520,
+      "width": 191,
+      "height": 60,
+      "color": "3"
+    },
+    {
+      "id": "bbc01b8f7d10a66c",
+      "type": "text",
+      "text": "Studio di fattibilità",
+      "styleAttributes": {},
+      "x": -1248,
+      "y": -2280,
+      "width": 202,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "844d12e180aa0a2a",
+      "type": "text",
+      "text": "Definizione delle specifiche",
+      "styleAttributes": {},
+      "x": -1027,
+      "y": -2280,
+      "width": 259,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "e399ba4581eaf994",
+      "type": "text",
+      "text": "Sviluppo ",
+      "styleAttributes": {},
+      "x": -748,
+      "y": -2280,
+      "width": 123,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "492d3158933e7fcf",
+      "type": "text",
+      "text": "Verifica del funzionamento",
+      "styleAttributes": {},
+      "x": -603,
+      "y": -2280,
+      "width": 254,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "3737dcc6b88dae07",
+      "type": "text",
+      "text": "Evoluzione di un software",
+      "styleAttributes": {},
+      "x": -328,
+      "y": -2280,
+      "width": 248,
+      "height": 60,
+      "color": "2"
+    },
+    {
+      "id": "165b3c80d9ee3923",
+      "type": "text",
+      "text": "Proprietà di un software",
+      "styleAttributes": {
+        "shape": null
+      },
+      "x": 300,
+      "y": -2120,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "f8c215e2e250e0e1",
+      "type": "text",
+      "text": "Affidabilità",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -1920,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "873ec09ac5441464",
+      "type": "text",
+      "text": "Usabilità",
+      "styleAttributes": {},
+      "x": 300,
+      "y": -1920,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d03caa2f21d89724",
+      "type": "text",
+      "text": "Correttezza",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -1820,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c1fa3d41770ff9da",
+      "type": "text",
+      "text": "Non lineare",
+      "styleAttributes": {},
+      "x": 300,
+      "y": -1820,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "627a1bd71d07fd9a",
+      "type": "text",
+      "text": "Robustezza",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -1720,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "604fcf2f96a1fb9c",
+      "type": "text",
+      "text": "Complesso\n",
+      "styleAttributes": {},
+      "x": 300,
+      "y": -1720,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "4acd23f1ba36103f",
+      "type": "text",
+      "text": "Comprensibilità",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -1620,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "148646ca4f072dd0",
+      "type": "text",
+      "text": "Prestazioni",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -1520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f394ad20bd59756c",
+      "type": "text",
+      "text": "Malleabilità",
+      "styleAttributes": {},
+      "x": 300,
+      "y": -1520,
+      "width": 260,
+      "height": 50
+    },
+    {
+      "id": "ad6dc2c55acfffd8",
+      "type": "text",
+      "text": "Efficienza",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -1420,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "98c6716d400d8fa8",
+      "type": "text",
+      "text": "Verificabilità",
+      "styleAttributes": {},
+      "x": 300,
+      "y": -1420,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "2e82a90cb4d54f41",
+      "type": "text",
+      "text": "Scalabilità",
+      "styleAttributes": {},
+      "x": 0,
+      "y": -1320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b3d48778d10051b9",
+      "type": "text",
+      "text": "Trasparenza",
+      "styleAttributes": {},
+      "x": 300,
+      "y": -1320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d41995bc86660b64",
+      "type": "text",
+      "text": "Manutenibilità",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -1920,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fcd7c39ee0d5ae40",
+      "type": "text",
+      "text": "Riusabilità",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -1820,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c4711a56dcc3a97c",
+      "type": "text",
+      "text": "Portabilità",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -1720,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "3978ec7f2fea4401",
+      "type": "text",
+      "text": "Interoperabilità",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -1520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "be27ed166596fdd4",
+      "type": "text",
+      "text": "Produttività",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -1420,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8d941b346fecc19e",
+      "type": "text",
+      "text": "Tempestività",
+      "styleAttributes": {},
+      "x": 600,
+      "y": -1320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5371f0fe9f813bce",
+      "type": "text",
+      "text": "Proprietà del buon software",
+      "styleAttributes": {},
+      "x": 2398,
+      "y": -1887,
+      "width": 282,
+      "height": 60
+    },
+    {
+      "id": "6e270187def8c8e2",
+      "type": "text",
+      "text": "Robusto",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1800,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f8c91817d3d243d8",
+      "type": "text",
+      "text": "Ben documentato",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1720,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e8e334f9ac8ebda2",
+      "type": "text",
+      "text": "Leggibile",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1640,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c78f4b0025c83cd1",
+      "type": "text",
+      "text": "Consistente",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1560,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e219ee3b668e2f16",
+      "type": "text",
+      "text": "Ben commentato",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1480,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "914bc1c30ba2eb9f",
+      "type": "text",
+      "text": "Ben stilizzato",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4f16f838b61c288a",
+      "type": "text",
+      "text": "Inglese",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1320,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "24dfd7cf315077c9",
+      "type": "text",
+      "text": "Utilizare termini del dominio applicativo",
+      "styleAttributes": {},
+      "x": 2320,
+      "y": -1240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1db2b89b2770923a",
+      "type": "text",
+      "text": "Standard di Ambler\n\"Se uno standard è comunemente accettato, più facile sarà per i membri del team comunicare e scrivere il codice in buon stile\"",
+      "styleAttributes": {},
+      "x": 3000,
+      "y": -1800,
+      "width": 400,
+      "height": 140
+    },
+    {
+      "id": "48cad7f9eb160d50",
+      "type": "text",
+      "text": "Ruoli nello sviluppo software",
+      "styleAttributes": {},
+      "x": -427,
+      "y": -2740,
+      "width": 347,
+      "height": 60
+    },
+    {
+      "id": "da5f1ad727484710",
+      "type": "text",
+      "text": "Cliente",
+      "styleAttributes": {},
+      "x": 140,
+      "y": -2954,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fd055c72137f7edd",
+      "type": "text",
+      "text": "Tester",
+      "styleAttributes": {},
+      "x": 140,
+      "y": -2520,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e1360ed414ac0da1",
+      "type": "text",
+      "text": "Manager",
+      "styleAttributes": {},
+      "x": 140,
+      "y": -2845,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "9bf0199a6a898885",
+      "type": "text",
+      "text": "Analista",
+      "styleAttributes": {},
+      "x": 140,
+      "y": -2736,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c68dd8965a2d6f80",
+      "type": "text",
+      "text": "Programmatore",
+      "styleAttributes": {},
+      "x": 140,
+      "y": -2627,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "82ef2c5f535c57ad",
+      "type": "text",
+      "text": "Requisiti",
+      "styleAttributes": {},
+      "x": 1260,
+      "y": -4240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "b7adb8bae2aab18c",
+      "type": "text",
+      "text": "Requisiti dell'utente",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": -3920,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "47c7accb9fab4ac9",
+      "type": "text",
+      "text": "Requisiti di sistema",
+      "styleAttributes": {},
+      "x": 1500,
+      "y": -3920,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "85f84588dbf0b52d",
+      "type": "text",
+      "text": "Analizzano le richieste dell'utente e ne analizzano le specifiche tecniche",
+      "styleAttributes": {},
+      "x": 1500,
+      "y": -3756,
+      "width": 260,
+      "height": 117
+    },
+    {
+      "id": "26d6ffec6f798bab",
+      "type": "text",
+      "text": "Descrivono le richieste dell'utente",
+      "styleAttributes": {},
+      "x": 1000,
+      "y": -3756,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ed5913ebf98e23a0",
+      "type": "text",
+      "text": "Stesura di un documento struttrato",
+      "styleAttributes": {},
+      "x": 1835,
+      "y": -3915,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "efb61f00d0475b4a",
+      "type": "text",
+      "text": "Completi",
+      "styleAttributes": {},
+      "x": 1260,
+      "y": -4376,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "248f0947e6151735",
+      "type": "text",
+      "text": "Coerenti",
+      "styleAttributes": {},
+      "x": 1575,
+      "y": -4376,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "59975c34dfc097dc",
+      "type": "text",
+      "text": "Impossibile in progetti complessi",
+      "styleAttributes": {},
+      "x": 1420,
+      "y": -4560,
+      "width": 260,
+      "height": 58
+    },
+    {
+      "id": "7fa1b238fd5fc344",
+      "type": "text",
+      "text": "Non funzionali",
+      "styleAttributes": {},
+      "x": 745,
+      "y": -4240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "208b7a4f52e8e722",
+      "type": "text",
+      "text": "Funzionali",
+      "styleAttributes": {},
+      "x": 745,
+      "y": -4346,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f56373d2aeef96cc",
+      "type": "text",
+      "text": "Di dominio",
+      "styleAttributes": {},
+      "x": 745,
+      "y": -4140,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "1f6f00a7ea58fe27",
+      "type": "text",
+      "text": "Quali utenti possono interagire con il sistema?",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -4688,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "8f950ed4ea299f66",
+      "type": "text",
+      "text": "Quali servizi il sistema deve fornire?",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -4591,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "afa114089ac0f9ac",
+      "type": "text",
+      "text": "Quali operazioni deve eseguire?",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -4502,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f46850c6ec9472db",
+      "type": "text",
+      "text": "Di prodotto",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -4316,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "68250b9130f25adb",
+      "type": "text",
+      "text": "Organizzativi",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -4240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "83f810d65fb9770e",
+      "type": "text",
+      "text": "Esterni",
+      "styleAttributes": {},
+      "x": 360,
+      "y": -4170,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f5d5055bd7a245b5",
+      "type": "text",
+      "text": "Non funzionali",
+      "styleAttributes": {},
+      "x": 744,
+      "y": -4000,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "70c3670094eb8339",
+      "type": "text",
+      "text": "Funzionali",
+      "styleAttributes": {},
+      "x": 460,
+      "y": -4000,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "e946ea49086d8af2",
+      "type": "text",
+      "text": "Prefazione",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -5400,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "fd0b848294a57953",
+      "type": "text",
+      "text": "Introduzione",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -5302,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "4d4717fc99acc2b6",
+      "type": "text",
+      "text": "Glossario",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -5204,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "de9e9fcc97b7ce53",
+      "type": "text",
+      "text": "Requisiti dell'utente",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -5106,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "0d7a442fec18cc93",
+      "type": "text",
+      "text": "Requisiti di sistema",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -5008,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f0904abac67fd41f",
+      "type": "text",
+      "text": "Modelli del sistema",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -4910,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "a6a76a4e2cbe8381",
+      "type": "text",
+      "text": "Evoluzione prevista per il sistema",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -4812,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "acc43dc210e78029",
+      "type": "text",
+      "text": "Appendice",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -4714,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d629789cc61c3617",
+      "type": "text",
+      "text": "Indice",
+      "styleAttributes": {},
+      "x": 2620,
+      "y": -4620,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "c00b11d1bceba241",
+      "type": "text",
+      "text": "Documento dei requisiti software",
+      "styleAttributes": {},
+      "x": 2080,
+      "y": -5008,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "7d5ce11404b7c066",
+      "type": "text",
+      "text": "Stakeholder",
+      "styleAttributes": {},
+      "x": 2020,
+      "y": -5240,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "6a7846c75a9f0a76",
+      "type": "text",
+      "text": "Validità",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -6500,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f16ac8702edf69e6",
+      "type": "text",
+      "text": "Consistenza",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -6417,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "292c8bf67a50a233",
+      "type": "text",
+      "text": "Completezza",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -6334,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ebf17b3c6df2bfbd",
+      "type": "text",
+      "text": "Realismo",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -6251,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5922922a7e2cc8f9",
+      "type": "text",
+      "text": "Verificabiità",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -6168,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "de1bfc969bcd7809",
+      "type": "text",
+      "text": "Comprensibilità",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -6085,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "38e6cf071252fd0f",
+      "type": "text",
+      "text": "Tracciabilità",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -6002,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "d3242b0ae9811668",
+      "type": "text",
+      "text": "Adattabilità",
+      "styleAttributes": {},
+      "x": 2380,
+      "y": -5920,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f736320307db9620",
+      "type": "text",
+      "text": "Verifica dei requisiti",
+      "styleAttributes": {},
+      "x": 1920,
+      "y": -6251,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "05af9397e8e6ced3",
+      "type": "text",
+      "text": "Revisione dei requisiti",
+      "styleAttributes": {},
+      "x": 1820,
+      "y": -6980,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "5b95d338378a458b",
+      "type": "text",
+      "text": "Il documento è realisticamente verificabile?",
+      "styleAttributes": {},
+      "x": 2180,
+      "y": -7120,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "f1639ef84460b3a0",
+      "type": "text",
+      "text": "Il requisito è stato compreso correttamente?",
+      "styleAttributes": {},
+      "x": 2180,
+      "y": -7040,
+      "width": 260,
+      "height": 60
+    },
+    {
+      "id": "ed5634e0ac881076",
+      "type": "text",
+      "text": "",
+      "styleAttributes": {},
+      "x": 2260,
+      "y": -6940,
+      "width": 260,
+      "height": 60
+    }
+  ],
+  "edges": [
+    {
+      "id": "2475ff4c8cd32846",
+      "styleAttributes": {},
+      "fromNode": "42abc77dcd0eb550",
+      "fromSide": "top",
+      "toNode": "317e609ee7c748d5",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f3c57d33d3fec16f",
+      "styleAttributes": {},
+      "fromNode": "317e609ee7c748d5",
+      "fromSide": "bottom",
+      "toNode": "b4a2e384cd650834",
+      "toSide": "right"
+    },
+    {
+      "id": "972aa07027a13e2b",
+      "styleAttributes": {},
+      "fromNode": "b4a2e384cd650834",
+      "fromSide": "bottom",
+      "toNode": "42abc77dcd0eb550",
+      "toSide": "top"
+    },
+    {
+      "id": "cf07ab0342db5c9a",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "f394ad20bd59756c",
+      "toSide": "top"
+    },
+    {
+      "id": "e0c4b5d66c98a005",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "604fcf2f96a1fb9c",
+      "toSide": "top"
+    },
+    {
+      "id": "450bdd762289e5c3",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "c1fa3d41770ff9da",
+      "toSide": "top"
+    },
+    {
+      "id": "b752abc893c2a1bd",
+      "styleAttributes": {},
+      "fromNode": "6c43af2c01df800e",
+      "fromSide": "bottom",
+      "toNode": "bbc01b8f7d10a66c",
+      "toSide": "top"
+    },
+    {
+      "id": "67865fd234ab4009",
+      "styleAttributes": {},
+      "fromNode": "6c43af2c01df800e",
+      "fromSide": "bottom",
+      "toNode": "844d12e180aa0a2a",
+      "toSide": "top"
+    },
+    {
+      "id": "cc0451f9e4b3d028",
+      "styleAttributes": {},
+      "fromNode": "6c43af2c01df800e",
+      "fromSide": "bottom",
+      "toNode": "e399ba4581eaf994",
+      "toSide": "top"
+    },
+    {
+      "id": "e440c46bf91f8c44",
+      "styleAttributes": {},
+      "fromNode": "6c43af2c01df800e",
+      "fromSide": "bottom",
+      "toNode": "492d3158933e7fcf",
+      "toSide": "top"
+    },
+    {
+      "id": "55b2be42409791bf",
+      "styleAttributes": {},
+      "fromNode": "6c43af2c01df800e",
+      "fromSide": "bottom",
+      "toNode": "3737dcc6b88dae07",
+      "toSide": "top"
+    },
+    {
+      "id": "bb4774a2955e6068",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "627a1bd71d07fd9a",
+      "toSide": "top"
+    },
+    {
+      "id": "f81a92e47f990e90",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "d03caa2f21d89724",
+      "toSide": "top"
+    },
+    {
+      "id": "9804e183bd2f4627",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "148646ca4f072dd0",
+      "toSide": "top"
+    },
+    {
+      "id": "a3d35b6d66aa4aeb",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "ad6dc2c55acfffd8",
+      "toSide": "top"
+    },
+    {
+      "id": "acd8566c7818c269",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "2e82a90cb4d54f41",
+      "toSide": "top"
+    },
+    {
+      "id": "1101ead1154a1464",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "873ec09ac5441464",
+      "toSide": "top"
+    },
+    {
+      "id": "e84727302b9836f2",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "98c6716d400d8fa8",
+      "toSide": "top"
+    },
+    {
+      "id": "11fb15a3c37fd6e4",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "f8c215e2e250e0e1",
+      "toSide": "top"
+    },
+    {
+      "id": "066d0d9ea4bf9c29",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "d41995bc86660b64",
+      "toSide": "top"
+    },
+    {
+      "id": "0621381bff03db27",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "fcd7c39ee0d5ae40",
+      "toSide": "top"
+    },
+    {
+      "id": "8b753045b0184e1b",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "c4711a56dcc3a97c",
+      "toSide": "top"
+    },
+    {
+      "id": "9b6d9902366511de",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "4acd23f1ba36103f",
+      "toSide": "top"
+    },
+    {
+      "id": "ad19bca92f492ab2",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "3978ec7f2fea4401",
+      "toSide": "top"
+    },
+    {
+      "id": "3eac6b9f63495b5b",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "be27ed166596fdd4",
+      "toSide": "top"
+    },
+    {
+      "id": "3fdd52247544e6f7",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "8d941b346fecc19e",
+      "toSide": "top"
+    },
+    {
+      "id": "eb8dd390a673366a",
+      "styleAttributes": {},
+      "fromNode": "165b3c80d9ee3923",
+      "fromSide": "bottom",
+      "toNode": "b3d48778d10051b9",
+      "toSide": "top"
+    },
+    {
+      "id": "32114afb60f97c3d",
+      "styleAttributes": {},
+      "fromNode": "6c43af2c01df800e",
+      "fromSide": "top",
+      "toNode": "48cad7f9eb160d50",
+      "toSide": "bottom"
+    },
+    {
+      "id": "f5bfa57c72946e47",
+      "styleAttributes": {},
+      "fromNode": "48cad7f9eb160d50",
+      "fromSide": "right",
+      "toNode": "da5f1ad727484710",
+      "toSide": "left"
+    },
+    {
+      "id": "3c7c8f4e27ba0483",
+      "styleAttributes": {},
+      "fromNode": "48cad7f9eb160d50",
+      "fromSide": "right",
+      "toNode": "e1360ed414ac0da1",
+      "toSide": "left"
+    },
+    {
+      "id": "7dea7b772328d10b",
+      "styleAttributes": {},
+      "fromNode": "48cad7f9eb160d50",
+      "fromSide": "right",
+      "toNode": "9bf0199a6a898885",
+      "toSide": "left"
+    },
+    {
+      "id": "112cdb283a639731",
+      "styleAttributes": {},
+      "fromNode": "48cad7f9eb160d50",
+      "fromSide": "right",
+      "toNode": "c68dd8965a2d6f80",
+      "toSide": "left"
+    },
+    {
+      "id": "e985d63ea2c9000a",
+      "styleAttributes": {},
+      "fromNode": "48cad7f9eb160d50",
+      "fromSide": "right",
+      "toNode": "fd055c72137f7edd",
+      "toSide": "left"
+    },
+    {
+      "id": "123d12c1c523a4d4",
+      "styleAttributes": {},
+      "fromNode": "82ef2c5f535c57ad",
+      "fromSide": "bottom",
+      "toNode": "47c7accb9fab4ac9",
+      "toSide": "top"
+    },
+    {
+      "id": "ba712d33fee1e156",
+      "styleAttributes": {},
+      "fromNode": "82ef2c5f535c57ad",
+      "fromSide": "bottom",
+      "toNode": "b7adb8bae2aab18c",
+      "toSide": "top"
+    },
+    {
+      "id": "0c5c2db1bbe9260e",
+      "styleAttributes": {},
+      "fromNode": "b7adb8bae2aab18c",
+      "fromSide": "right",
+      "toNode": "47c7accb9fab4ac9",
+      "toSide": "left",
+      "label": "Approfonditi nei"
+    },
+    {
+      "id": "c7fb8ef051d9ae92",
+      "styleAttributes": {},
+      "fromNode": "b7adb8bae2aab18c",
+      "fromSide": "bottom",
+      "toNode": "26d6ffec6f798bab",
+      "toSide": "top"
+    },
+    {
+      "id": "d5ef5d76f4a7472d",
+      "styleAttributes": {},
+      "fromNode": "47c7accb9fab4ac9",
+      "fromSide": "bottom",
+      "toNode": "85f84588dbf0b52d",
+      "toSide": "top"
+    },
+    {
+      "id": "0fece262f7047156",
+      "styleAttributes": {},
+      "fromNode": "47c7accb9fab4ac9",
+      "fromSide": "right",
+      "toNode": "ed5913ebf98e23a0",
+      "toSide": "left"
+    },
+    {
+      "id": "7d795b5de93d78a8",
+      "styleAttributes": {},
+      "fromNode": "82ef2c5f535c57ad",
+      "fromSide": "top",
+      "toNode": "efb61f00d0475b4a",
+      "toSide": "bottom"
+    },
+    {
+      "id": "dd7de87ce76c730f",
+      "styleAttributes": {},
+      "fromNode": "82ef2c5f535c57ad",
+      "fromSide": "top",
+      "toNode": "248f0947e6151735",
+      "toSide": "bottom"
+    },
+    {
+      "id": "108632ce097c9e94",
+      "styleAttributes": {},
+      "fromNode": "248f0947e6151735",
+      "fromSide": "top",
+      "toNode": "59975c34dfc097dc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "78aa9c5c5f27ec23",
+      "styleAttributes": {},
+      "fromNode": "efb61f00d0475b4a",
+      "fromSide": "top",
+      "toNode": "59975c34dfc097dc",
+      "toSide": "bottom"
+    },
+    {
+      "id": "5144e1d2cb971608",
+      "styleAttributes": {},
+      "fromNode": "82ef2c5f535c57ad",
+      "fromSide": "left",
+      "toNode": "208b7a4f52e8e722",
+      "toSide": "right"
+    },
+    {
+      "id": "8b476be2c94212f2",
+      "styleAttributes": {},
+      "fromNode": "82ef2c5f535c57ad",
+      "fromSide": "left",
+      "toNode": "7fa1b238fd5fc344",
+      "toSide": "right"
+    },
+    {
+      "id": "11c9bd87dbceab5d",
+      "styleAttributes": {},
+      "fromNode": "82ef2c5f535c57ad",
+      "fromSide": "left",
+      "toNode": "f56373d2aeef96cc",
+      "toSide": "right"
+    },
+    {
+      "id": "c06c551630a360e9",
+      "styleAttributes": {},
+      "fromNode": "208b7a4f52e8e722",
+      "fromSide": "top",
+      "toNode": "1f6f00a7ea58fe27",
+      "toSide": "bottom"
+    },
+    {
+      "id": "16188fafa2a0f736",
+      "styleAttributes": {},
+      "fromNode": "208b7a4f52e8e722",
+      "fromSide": "top",
+      "toNode": "8f950ed4ea299f66",
+      "toSide": "bottom"
+    },
+    {
+      "id": "37885ad0a88347fc",
+      "styleAttributes": {},
+      "fromNode": "208b7a4f52e8e722",
+      "fromSide": "top",
+      "toNode": "afa114089ac0f9ac",
+      "toSide": "bottom"
+    },
+    {
+      "id": "aa4e1cf9d7beca52",
+      "styleAttributes": {},
+      "fromNode": "7fa1b238fd5fc344",
+      "fromSide": "left",
+      "toNode": "f46850c6ec9472db",
+      "toSide": "right"
+    },
+    {
+      "id": "723e7ce537b48ac2",
+      "styleAttributes": {},
+      "fromNode": "7fa1b238fd5fc344",
+      "fromSide": "left",
+      "toNode": "68250b9130f25adb",
+      "toSide": "right"
+    },
+    {
+      "id": "65d41adca71bffdf",
+      "styleAttributes": {},
+      "fromNode": "7fa1b238fd5fc344",
+      "fromSide": "left",
+      "toNode": "83f810d65fb9770e",
+      "toSide": "right"
+    },
+    {
+      "id": "8b81ba350806ea5f",
+      "styleAttributes": {},
+      "fromNode": "f56373d2aeef96cc",
+      "fromSide": "bottom",
+      "toNode": "70c3670094eb8339",
+      "toSide": "top"
+    },
+    {
+      "id": "651d98a66974efd2",
+      "styleAttributes": {},
+      "fromNode": "f56373d2aeef96cc",
+      "fromSide": "bottom",
+      "toNode": "f5d5055bd7a245b5",
+      "toSide": "top"
+    }
+  ],
+  "metadata": {}
+}

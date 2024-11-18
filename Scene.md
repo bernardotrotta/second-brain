@@ -1,0 +1,1 @@
+Una scena è una superficie per disegnare elementi sulla scena
