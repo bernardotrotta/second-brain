@@ -192,13 +192,11 @@
               "title": "Segnalibri"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "86104ae5cfb2d75b",
@@ -524,12 +522,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cad0e02f82bbcec9",
+  "active": "795a038593eaadbe",
   "lastOpenFiles": [
+    "Partizionamento./Partizionamento e accorpamento di entità e associazioni.md",
+    "Container.md",
     "Linux Commands.md",
     "Timers (JavaScript).md",
     "Client-side JavaScript.md",
-    "Container.md",
     "JavaScript.md",
     "-.md",
     "Amministrazione dei sistemi IT e Cloud.md",
@@ -553,7 +552,6 @@
     "Scene-Graph.md",
     "Scene.md",
     "Stages.md",
-    "Sottospazi vettoriali.md",
     "Excalidraw/Senza nome.canvas",
     "Allegati/Screenshot 2024-10-14 alle 14.08.44.png",
     "Senza nome 2.canvas",
