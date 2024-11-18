@@ -51,3 +51,5 @@ docker-compose.override.yml
 
 # Altri file specifici
 !README.md
+
+Daily\ Journal/
